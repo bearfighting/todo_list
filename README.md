@@ -1,0 +1,1 @@
+- This is a "todo list" project from zero, I envisage to use react for front-end and spring boot or express.js for the back-end.
